@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <notaFiscal cliente="Diogo Moreira" valor="26.5" data='2016-04-04'/>
+    <notaFiscal cliente="Joseph Sousa" valor="30.5" data='2016-05-01'/>
+    <notaFiscal cliente="Asheley Emmy" valor="28.2" data='2015-08-11'/>
+</dataset>
